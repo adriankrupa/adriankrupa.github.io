@@ -1,0 +1,39 @@
+# Site settings
+title: "Adrian Krupa"
+email: adrian.krupa91@gmail.com
+description: "Personal Blog."
+baseurl: ""
+url: "http://adriankrupa.github.io/"
+title_description: ""
+title_image: "https://www.gravatar.com/avatar/a351d561f75641e458ce8f6dfd5b5227?s=500&d=mm"
+google_analytics: "UA-67293116-1"
+disqus_account: adriankrupa
+github_repository: https://github.com/adriankrupa/adriankrupa.github.io
+addthis_id:
+post_limit: 5
+
+# Social usernames/URLs
+twitter_username: krupaa91
+github_username:  adriankrupa
+instagram_username: 
+reddit_username: 
+linkedin_link: https://linkedin.com/in/adrian-krupa-298043117
+google_plus_link:
+stackoverflow_link: https://stackoverflow.com/users/1351828/adrian-krupa
+xing_link:
+facebook_link:
+
+# Footer
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/krupaa91\">Adrian Krupa</a>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/adriankrupa/adriankrupa.github.io\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  hard_wrap: true
+
+permalink: pretty
+exclude:
